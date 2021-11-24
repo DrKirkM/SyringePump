@@ -1,6 +1,6 @@
 # SyringePump
 Python Based Syringe Pump Control Program ver 1.0 FEB2020
-Author: Kirk Mutafopulos
+Author: KM
 This program is for controlling and operating the Harvard Apparatus OEM model syringe pumps. 
 This program uses packages: pyserial 3.5 and PyQt5 5.9.7
 You will need to check the COM port is correct. The default is COM1. You will need to change this incase you are using a different COM port.
